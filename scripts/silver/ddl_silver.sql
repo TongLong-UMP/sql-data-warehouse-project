@@ -1,12 +1,3 @@
-USE [DataWarehouse]
-GO
-
-/****** Object:  StoredProcedure [silver].[load_silver]    Script Date: 30/06/2025 19:29:02 ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
 
 /*
 ===============================================================================
